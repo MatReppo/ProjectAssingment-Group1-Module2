@@ -1,0 +1,120 @@
+
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden; /* Prevent horizontal overflow */
+}
+.header{
+    background-color: #777;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10; /* Higher z-index to keep it above other elements */
+    box-sizing: border-box;
+    
+}
+h2{
+    color:black;
+}
+.logoumt{
+              
+    height:80px;
+    width:80px;
+    float: center;
+    padding:3px;
+    border-style: solid;
+    border-radius: 45px;
+    }
+.iconProfile{
+        height: 20px;
+        width: auto;
+        vertical-align: middle;
+      }
+
+body {
+    padding-top: 80px; /* Adjust according to header height */
+    display: flex;
+    flex-direction: column;
+}
+
+.table-container {
+    margin-top: 80px; /* Adjust according to header height */
+}
+   table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    .checked {
+        text-decoration: line-through;
+    }
+    
+    /* content */
+    .content{
+        flex: 1;
+    }
+    /* page footer */
+    .footer{
+        background-color: #777;
+        padding: 10px;
+        text-align: center;
+        color: white;
+        width: 100%;
+      }.header{
+    background-color: #777;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10; /* Higher z-index to keep it above other elements */
+    box-sizing: border-box;
+}
+.logoumt{
+              
+    height:80px;
+    width:80px;
+    float: center;
+    padding:3px;
+    border-style: solid;
+    border-radius: 45px;
+    }
+
+body {
+    padding-top: 80px; /* Adjust according to header height */
+}
+
+.table-container {
+    margin-top: 80px; /* Adjust according to header height */
+}
+   table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    .checked {
+        text-decoration: line-through;
+    }
+    /* page footer */
+    .footer{
+        background-color: #777;
+        padding: 10px;
+        text-align: center;
+        color: white;
+      }

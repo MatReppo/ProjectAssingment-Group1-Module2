@@ -1,0 +1,16 @@
+com\controller\JptServlet.class
+com\controller\LoginServlet.class
+com\model\Mqa.class
+com\mycompany\group1module2\resources\JakartaEE10Resource.class
+com\DAO\JptDAO.class
+com\controller\MqaServlet.class
+com\DAO\DBUtil.class
+com\model\Jpt.class
+com\controller\HomeServlet.class
+com\controller\RegisterServlet.class
+com\model\Profile.class
+com\model\Home.class
+com\model\User.class
+com\DAO\MqaDAO.class
+com\DAO\HomeDAO.class
+com\mycompany\group1module2\JakartaRestConfiguration.class
